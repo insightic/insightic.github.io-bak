@@ -8,4 +8,4 @@ The assessment of a digital asset service takes about <span style="color: red;">
 
 </p>
 
-<a style="font-size: 1.1rem;" href="https://google.com">Contact Us</a>
+<a style="font-size: 1.1rem;" href="mailto:contact@insightic.io">Contact Us</a>

@@ -26,4 +26,4 @@
 </li>
 </ul>
 
-<a style="font-size: 1.1rem;" href="https://google.com">Contact Us</a>
+<a style="font-size: 1.1rem;" href="mailto:contact@insightic.io">Contact Us</a>
